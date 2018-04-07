@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Just do it!
 header-img: img/home-bg.png
 email: jeffreyliu0@gmail.com
 copyright_name: jeffliu0
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Yesterday you said tomorrow!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jeffliu0
