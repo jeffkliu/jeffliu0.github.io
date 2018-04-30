@@ -1,0 +1,35 @@
+---
+layout: post
+title:      "Just do it!"
+date:       2018-04-30 21:04:21 +0000
+permalink:  just_do_it
+---
+
+
+Don't let your dreams be dreams
+Yesterday you said tomorrow
+So just do it
+Make your dreams come true
+Just do it
+
+Some people dream of success
+While you're gonna wake up and work hard at it
+Nothing is impossible
+
+You should get to the point
+Where anyone else would quit
+And you're not going to stop there
+No, what are you waiting for?" - Shia Labeouf
+
+Disclaimer: This is my first blogging assignment, so it's not meant to get too deep in the weeds on any given topic from the bootcamp.
+
+These words have never been any truer. This blog post is not meant to be comedic, or you can take it as such from a break from your hardcore coding routine. 
+
+I'm sure most of you have been stuck on a bug while coding, whether the instructions were unclear (rarely the case) or because the logic of the code may not be correct. However, the feeling after you fixed that bug must've been a sigh-of-relief. Then you realized that after solving that bug, you run into an insurmountable amount of other bugs. It happens to the best of us. I'm sure the creators/developers of FlatIron Bootcamp must've encountered a lot of those to make the Flatiron as successful as it is today.
+
+Coding is not easy. It is not supposed to be easy. Otherwise, everyone who wants to get in because of attractive compensation packages, those "Don't worry, I can handle the busines side" entrepreneurs offering equity-only packages, and more, can easily get it.  I was stuck on the map(), reduce() JS exercise where one of the solutions, you can literally just use filter() to only add the values that satisfy the conditional statement... figuring that out was the best feeling of the hour.  
+I've coded in University, in my jobs, and even when I started my own projects. There are many times I've wanted to give up. But, I've learned the goal to persist and survive is to celebrate small wins and appreciate the journey. Most people would want to build the next Facebook or some killer app... but it's really discouraging to start hiking when you look at the peak of the mountain. Instead, we just look at it every 1000 steps.. and after 10,000, we set 2000-step goals... then that will be great.
+
+How I'm looking at FlatIron and current/future projects is to celebrate these small wins and...
+
+As Shia Labeouf elegantly put it, JUST DO IT! 
